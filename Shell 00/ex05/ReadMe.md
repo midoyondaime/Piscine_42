@@ -1,5 +1,6 @@
 # ReadMe
 This bash file executes the following command :
+
 ``bash
 git log -3 --pretty=format:"%h"
 ``
