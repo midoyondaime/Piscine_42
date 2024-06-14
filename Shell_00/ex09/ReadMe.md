@@ -16,6 +16,6 @@ Offset type value message
 * Offset : where to start looking
 * type : type of file
 * value : value we are looking for
-* message : message to displayq
+* message : message to display
 
 For more information : https://0xpius.hashnode.dev/a-quick-guide-to-magic-files
