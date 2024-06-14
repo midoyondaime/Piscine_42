@@ -1,6 +1,6 @@
 # ReadMe
 
-Using the command *file* with the option *-m* referring to mafic file.
+Using the command *file* with the option *-m* referring to magic file.
 
 ```bash
 file -m ft_magic testfile.bin
@@ -16,6 +16,6 @@ Offset type value message
 * Offset : where to start looking
 * type : type of file
 * value : value we are looking for
-* message : message to display
+* message : message to displayq
 
 For more information : https://0xpius.hashnode.dev/a-quick-guide-to-magic-files
