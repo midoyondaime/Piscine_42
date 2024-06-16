@@ -8,3 +8,5 @@ this function is included in *unistd.h* library.
 - fd : This is the file descriptor where the data should be written (0, 1 or 2 for terminal printing)
 - buf : This is a pointer to the buffer.
 - count : This specifies the number of bytes to write from the buffer.
+
+In our case, we print a char using the ASCII coding system.
